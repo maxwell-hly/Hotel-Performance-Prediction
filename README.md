@@ -3,7 +3,7 @@ Beyond the Noise: Uncovering the Value of Inconsistent Signals in User-Generated
 
 This repository serves as a **methodological demonstration** for the empirical study on hotel performance forecasting using UGC inconsistency signals. 
 
-Due to the constraints of ongoing funded research and platform data policies, we are unable to publicly release the complete proprietary feature engineering pipeline (e.g., custom NLP scripts, BERTopic dynamic drift modeling) and the fully processed numerical feature dataset. 
+Due to the constraints of ongoing research, we are unable to publicly release the complete proprietary feature engineering pipeline (e.g., custom NLP scripts, BERTopic dynamic drift modeling) and the fully processed numerical feature dataset.
 
 Instead, this repository provides:
 1. **`ReviewData10000.csv`**: A sub-sample of the raw online reviews used in the study, providing context on the raw data structure.
